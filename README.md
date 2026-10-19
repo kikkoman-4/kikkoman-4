@@ -1,12 +1,17 @@
 <div align="center">
 
-# Hi, I'm Kikz 👋
-### Junior Full-Stack Developer
-**Crafting Immersive Web, Software & Game Experiences**
+  <!-- Top Waving Gradient Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=220&section=header&text=Hi%2C%20I'm%20Kikz%20👋&fontSize=50&fontAlignY=38&animation=twinkling&desc=Junior%20Full-Stack%20Developer%20•%20Web%20•%20Software%20•%20Game%20Experiences&descAlignY=60&descSize=18" width="100%" alt="Header Banner" />
 
-<br/>
+  <!-- Animated Typing Tagline -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=6366F1&center=true&vCenter=true&width=550&lines=Crafting+Immersive+Digital+Experiences;Full-Stack+Web+%26+Software+Developer;Game+Developer+%26+Tech+Enthusiast;Always+learning%2C+building%2C+and+refining." alt="Typing SVG" />
+  </a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kikzafable.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kikz-afable) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/kixafable) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kikzafable@gmail.com)
+  <br/><br/>
+
+  <!-- Quick Connect Pills (Inline on one line to ensure no vertical stacking glitch) -->
+  <p align="center"><a href="https://kikzafable.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;<a href="https://linkedin.com/in/kikz-afable"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="https://fb.com/kixafable"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;<a href="mailto:kikzafable@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
 
 </div>
 
@@ -87,7 +92,10 @@
   </tr>
 </table>
 
----
+<br/>
+
+<!-- Matching Wavy Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=120&section=footer" width="100%" alt="Footer Banner" />
 
 <div align="center">
   <sub>Let's build something remarkable together • Connect with me on <a href="https://linkedin.com/in/kikz-afable">LinkedIn</a></sub>
